@@ -50,7 +50,7 @@ Installation
 Clone the repository or download the source code:
 bash
 Copy code
-git clone https://github.com/easysoul1/counter-web-app.git
+[git clone https://github.com/Easysoul1/counter-web-application.git
 Open the project folder.
 Run the index.html file in your browser.
 File Structure
